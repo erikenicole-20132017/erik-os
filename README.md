@@ -5,13 +5,32 @@ This is the workstation for the operating system, therefore, the repository will
 
 System Informations: 
 
-   OS Name: Erik 
+   - OS Name: Erik 
    
-   Version: Erik 
-   Polls for: Home, Education, Work and developers, Industrial 
+   - Version: Erik 
    
-   Support start date: N/A 
+   - Polls for: Home, Education, Work and developers, Industrial 
    
-   Support ending date: N/A 
+   - Support start date: N/A 
    
-   Allocation memory multipliers: 150 million controllers per character (823 quadrillions)
+   - Support ending date: N/A 
+   
+   - Allocation memory multipliers: 150 million controllers per character 
+
+Here is a diagram of our operating system:
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+   <system="transfer">
+      <erikproj>
+         <?include="erikproj">
+         <!--erikproj define support erik project-->
+         <set="code">
+            <script>
+               if definegetObjElem
+            </script>
+         </set>
+      </erikproj>
+   </system>
+</xml>
+```
