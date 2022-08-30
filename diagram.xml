@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <system="transfer">
+      <erikproj>
+         <include="erikproj" />
+         <!--erikproj define support erik project-->
+         <set="code">
+            <script>
+               if definegetObjElement ("14")
+            </script>
+         </set>
+      </erikproj>
+   </system>
+</xml>
