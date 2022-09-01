@@ -1,0 +1,14 @@
+from math import; 
+
+get.mouse.onclick("AddEventListener") pointer click 
+get.mouse.subclick("trace.variable") postclick
+
+get.color.back1("blue") set profile
+get.color.fore1("red2") set profile
+
+style back1 = profile duration 1000
+style back2 = profile duration 1000
+
+set profile
+
+eventlistener.complete
