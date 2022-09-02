@@ -65,3 +65,5 @@ run device shutdown;
 run system shutdown;
 
 sysdir.ini
+
+start Program [manual]
