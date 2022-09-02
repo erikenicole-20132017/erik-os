@@ -2,8 +2,8 @@
 
 Uploading for files...
 
-[::::::::::::::::::::::::**0%**::::::::::::::::::::::::]
+[::::::::::::::::::::::::**Please**:**wait...**:::::::::::::::::::::::]
 
-Remaining: **1 day for end**
+Remaining: **Unknown**
 
 Thanks to the Erik Corporation
