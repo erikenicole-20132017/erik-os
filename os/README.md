@@ -1,5 +1,9 @@
 # Processor informations
+
 Uploading for files...
-[____0%____]
-Remaining: 1 data for end
+
+[::::::::::::::::::::::::**0%**::::::::::::::::::::::::]
+
+Remaining: **1 day for end**
+
 Thanks to the Erik Corporation
