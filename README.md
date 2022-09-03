@@ -20,17 +20,17 @@ System Informations:
 Here is a diagram of our operating system:
 
 ```
-<?xml version="1.0" encoding="UTF-8"?>
-   <system="transfer">
-      <erikproj>
-         <?include="erikproj">
-         <!--erikproj define support erik project-->
-         <set="code">
-            <script>
+GO
+TRANSFER SYSTEM;
+      FOR ERIKPROJ
+         FOR ERIKPROJ
+         info: erikproj define support erik project
+         SET CODE
+            SOURCE SCRIPT
                if definegetObjElem
-            </script>
-         </set>
-      </erikproj>
-   </system>
-</xml>
+            END
+         END
+      END
+   END
+END
 ```
