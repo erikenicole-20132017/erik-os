@@ -15,7 +15,7 @@ System Informations:
    
    - Support ending date: N/A 
    
-   - Allocation memory multipliers: 150 million controllers per character 
+   - Allocation memory multipliers: 8 controllers per character 
 
 Here is a diagram of our operating system:
 
