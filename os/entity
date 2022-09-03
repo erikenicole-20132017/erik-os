@@ -1,0 +1,15 @@
+if this entity of definegetobjelement
+
+sub int
+   server address (localhost service)
+   typearray.entity of te
+   server quote in frame
+end
+
+sub int
+   type entity or create server: 
+   createServer: myServer
+   createFile: offlimit [manual true]
+end
+
+end
