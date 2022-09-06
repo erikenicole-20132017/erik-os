@@ -1,18 +1,3 @@
-# Photo editor on Scratch 
-
-https://scratch.mit.edu/projects/724178549/embed
-
-# WarCat
-
-https://scratch.mit.edu/projects/724533584/embed
-
-# Kill the Fly
-
-https://scratch.mit.edu/projects/724598911/embed
-
-# Chick clicker 
-
-https://scratch.mit.edu/projects/728388301/embed
 
 # Calculator
 
@@ -169,5 +154,5 @@ Output:
   </form>
  </div>
 
-# Stopwatch
-https://scratch.mit.edu/projects/728837766/embed
+# Scratch
+https://scratch.mit.edu/users/lottatore
