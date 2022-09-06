@@ -110,7 +110,7 @@ function perc() {
     <td><input type="button" value="7" onclick="digit(7);"></td>
     <td><input type="button" value="8" onclick="digit(8);"></td>
     <td><input type="button" value="9" onclick="digit(9);"></td>
-    <td><input type="button" value="x" onclick="ar('*');"></td>
+    <td><input type="button" value="*" onclick="ar('*');"></td>
       </tr>  
       <tr>
     <td><input type="button" value="4" onclick="digit(4);"></td>
